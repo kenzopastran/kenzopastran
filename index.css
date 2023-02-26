@@ -1,0 +1,95 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    background-image: url("https://i.giphy.com/media/u7D5EyS2EFlpC/giphy.webp");
+
+}
+
+
+.center {
+    position: absolute;
+    top: 50%;
+    width: 50%;
+    text-align: top;
+    font-size: 18px;
+  }
+
+#sobremi{
+    background-color: aquamarine;
+    opacity: 85%;
+    padding: 5px;
+}
+
+.divinterna{
+    margin: 10px;
+}
+
+.nav-enlace{
+    display: inline-block;
+    background: salmon;
+    color: #fff;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+.nav-enlace:hover{
+    background: yellowgreen;
+}
+
+.navegador{
+    background: whitesmoke;
+    padding: 10px;
+    text-align: center;
+}
+
+#imagencentral{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40%;  
+    }
+
+#presentacion{
+    text-align: center;
+    justify-content: center;
+    background-color: lightskyblue;
+    opacity: 85%;
+    padding: 5px;
+}
+
+#estudiosrealizados{
+    background-color: antiquewhite;
+    opacity: 85%;
+    padding: 5px;
+}
+
+#experiencialaboral{
+    background-color: darkolivegreen;
+    opacity: 85%;
+    padding: 5px;
+}
+
+#datosdecontacto{
+    background-color: goldenrod;
+    opacity: 85%;
+    padding: 5px;
+}
+
+#links{
+    text-align: center;
+    padding: 5px;
+}
+
+header i{
+    font-size: 30px;
+    margin: 0 30px;
+    align-self: center;
+    position: relative;
+}
+
+#habilidades{
+    align-self: center;
+    background-color: cadetblue;
+    text-decoration: dashed;
+    padding: 5px;
+    opacity: 85%;
+}
